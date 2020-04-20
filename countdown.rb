@@ -9,7 +9,7 @@ def countdown(int)
 end
 
 def countdown_with_sleep(int)
-  int == sleep 60.secs
+  int == sleep 60
   
 end
 
