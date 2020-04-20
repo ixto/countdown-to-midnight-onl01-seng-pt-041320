@@ -5,4 +5,3 @@ def countdown(int)
 end
 
 
-countdown(20)
